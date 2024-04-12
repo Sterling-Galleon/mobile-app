@@ -1,0 +1,34 @@
+class clsDimensConstants{
+  static const double douDp0 = 0.0;
+  static const double douDp1 = 1.0;
+  static const double douDp1point5 = 1.5;
+  static const double douDp2 = 2.0;
+  static const double douDp3 = 3.0;
+  static const double douDp4 = 4.0;
+  static const double douDp5 = 5.0;
+  static const double douDp6 = 6.0;
+  static const double douDp7 = 7.0;
+  static const double douDp8 = 8.0;
+  static const double douDp9 = 9.0;
+  static const double douDp10 = 10.0;
+  static const double douDp11 = 11.0;
+  static const double douDp12 = 12.0;
+  static const double douDp13 = 13.0;
+  static const double douDp14 = 14.0;
+  static const double douDp15 = 15.0;
+  static const double douDp16 = 16.0;
+  static const double douDp18 = 18.0;
+  static const double douDp20 = 20.0;
+  static const double douDp25 = 25.0;
+  static const double douDp30 = 30.0;
+  static const double douDp35 = 35.0;
+  static const double douDp37 = 37.0;
+  static const double douDp38 = 38.0;
+  static const double douDp40 = 40.0;
+  static const double douDp45 = 45.0;
+  static const double douDp50 = 50.0;
+  static const double douDp60 = 60.0;
+  static const double douDp65 = 65.0;
+  static const double douDp95 = 95.0;
+  static const double douDp130 = 130.0;
+}

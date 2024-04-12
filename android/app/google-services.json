@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "655433777007",
+    "project_id": "galleon-e879f",
+    "storage_bucket": "galleon-e879f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655433777007:android:6a548acd079fa87e23f29a",
+        "android_client_info": {
+          "package_name": "com.sterling.galleon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655433777007-d3fg9o471tbf3e7ebhlajaimkoon8v0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sterling.galleon",
+            "certificate_hash": "cde3e2d6dafc37c82a954be36689448dc10bbaa1"
+          }
+        },
+        {
+          "client_id": "655433777007-pde6ueshvl8tb3gghqpmspftu01enfmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgphabFYHOnXdhXquFM0EfZ_kCvHtcLzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655433777007-lk89en1va0ml8not9rnbk0hm39h5i0it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

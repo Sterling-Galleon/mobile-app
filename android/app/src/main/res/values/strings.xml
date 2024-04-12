@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Galleon_ecommerce</string>
+    <string name="facebook_app_id">518702611474773</string>
+    <string name="fb_login_protocol_scheme">fb518702611474773</string>
+    <string name="facebook_client_token">9795087cf965dfe4b34620971ff5e8f7</string>
+</resources>
